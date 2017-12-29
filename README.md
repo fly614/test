@@ -14,3 +14,4 @@ fff
 6000
 
 v1.4
+release
